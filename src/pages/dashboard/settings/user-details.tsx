@@ -73,7 +73,7 @@ function UserDetails() {
             checked={dontShowAlert === "true" ? true : false}
           />
           <label htmlFor="show-alert" className="ml-2 pt-1">
-            Show alert when you click outside the modal
+            Don't show alert when you click outside the modal
           </label>
         </div>
       </div>
